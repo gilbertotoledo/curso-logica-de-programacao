@@ -1,0 +1,21 @@
+
+Programa Compara
+
+Principal início 
+	escreva "Informe um valor: ";
+	leia valorA;
+	
+	escreva "Informe outro valor: ";
+	leia valorB;
+	
+	//escreva "abc"; leia valorC;
+	
+	se (valorA > valorB) faça
+	início
+		escreva "Primeiro valor é o maior";
+	fim se
+	senao faça
+	início
+		escreva "Segundo valor é o maior";
+	fim senao
+fim

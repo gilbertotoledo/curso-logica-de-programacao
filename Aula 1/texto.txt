@@ -1,0 +1,24 @@
+Algoritmo
+
+Passo a passo
+Estruturado
+Resolve um problema
+Garante a repetibilidade da solução
+
+Receita de bolo
+1- Bata as claras em neve
+2- Reserve
+3- Bata bem as gemas com a margarina e o açúcar
+4- Acrescente o leite e farinha aos poucos sem parar de bater
+5- Por último agregue as claras em neve e o fermento
+6- Coloque em forma grande de furo central untada e enfarinhada
+7- Asse em forno médio, pré - aquecido, por aproximadamente 40 minutos
+8- Quando espetar um palito e sair limpo estará assado
+		Se, ao espetar um palito, ele sair limpo, o bolo está assado
+		Senão, continue assando.
+		
+Programa ComparaNumeros
+1- Solicita um valor ao usuário.
+2- Solicita outro valor ao usuário.
+3- Se o primeiro valor for maior do que o segundo, informe:"O primeiro valor é o maior".
+4- Senão, informe: "O segundo valor é o maior".
